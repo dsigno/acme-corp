@@ -1,4 +1,9 @@
-# About us
+---
+title: About Us
+date: 2026-11-16T00:00:00Z
+description: El principal fabricante mundial de formas digitales. Nosotros damos forma al mundo; tú vives en él. 
+draft: false
+---
 
 Acme Corporation&trade; is the world's leading manufacturer of digital shapes. From squares and circles to triangles and hexagons, we have it all. Browse through our collection of various forms with different thicknesses and line styles.
 
